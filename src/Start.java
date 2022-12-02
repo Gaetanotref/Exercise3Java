@@ -3,7 +3,7 @@ public class Start {
         //DECLARATION
         House house1,house2;
         //CREATION
-        house1=new House();
-        house2=new House();
+        house1=new House("Via Bho",12);
+        house2=new House("Via Bho2",14);
     }
 }
